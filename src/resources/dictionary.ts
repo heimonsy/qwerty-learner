@@ -4,17 +4,6 @@ import { calcChapterCount } from '@/utils'
 // 中国考试
 const chinaExam: DictionaryResource[] = [
   {
-    id: 'CELPIP',
-    name: 'CELPIP',
-    description: '加拿大英语水平考试',
-    category: '国际考试',
-    tags: ['CELPIP'],
-    url: '/dicts/CELPIP.json',
-    length: 334,
-    language: 'en',
-    languageCategory: 'en',
-  },
-  {
     id: 'cet4',
     name: 'CET-4',
     description: '大学英语四级词库',
@@ -425,6 +414,28 @@ const chinaExam: DictionaryResource[] = [
 
 // 国际考试
 const internationalExam: DictionaryResource[] = [
+  {
+    id: 'CELPIP',
+    name: 'CELPIP',
+    description: '加拿大英语水平考试',
+    category: '国际考试',
+    tags: ['CELPIP'],
+    url: '/dicts/CELPIP.json',
+    length: 332,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
+    id: 'HEIMONSY',
+    name: 'HEIMONSY',
+    description: '个人词典',
+    category: '国际考试',
+    tags: ['CELPIP'],
+    url: '/dicts/heimonsy.json',
+    length: 133,
+    language: 'en',
+    languageCategory: 'en',
+  },
   {
     id: 'gmat',
     name: 'GMAT',

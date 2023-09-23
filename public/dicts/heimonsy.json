@@ -1,0 +1,800 @@
+[
+  {
+    "name": "nuance",
+    "trans": [
+      "n. 细微差别\nThere's a subtle nuance of flavor that the chef creates by using only a pinch of spice."
+    ]
+  },
+  {
+    "name": "generosity",
+    "trans": [
+      "n. 慷慨"
+    ]
+  },
+  {
+    "name": "infer",
+    "trans": [
+      "v. 推断\nWhat do you infer from her refusal?"
+    ]
+  },
+  {
+    "name": "inference",
+    "trans": [
+      "n. 推论\nWhat inference can you draw from the facts?"
+    ]
+  },
+  {
+    "name": "recurrent",
+    "trans": [
+      "adj. 循环的; 重复的; 再次发生的; 反复出现的\nThe patient has a two-month history of recurrent episodes of pancreatitis."
+    ]
+  },
+  {
+    "name": "annual",
+    "trans": [
+      "adj. 每年的; 一年一次的; 年度的; 一年生的"
+    ]
+  },
+  {
+    "name": "sheer",
+    "trans": [
+      "adj. 完全的; 纯粹的; (地形) 陡峭的; 峻峭的\nIt was sheer coincidence that we met."
+    ]
+  },
+  {
+    "name": "apparent",
+    "trans": [
+      "adj. 明显的; 表面上的; 貌似真实的\nThe apparent reason for his absence was illness."
+    ]
+  },
+  {
+    "name": "appearing",
+    "trans": [
+      "adj. 出现的; 外貌的; 表面上的\nThe appearing of the sun dispelled the mist."
+    ]
+  },
+  {
+    "name": "obvious",
+    "trans": [
+      "adj. 明显的; 显而易见的; 突然的; 唐突的\nIt was obvious that she was lying."
+    ]
+  },
+  {
+    "name": "subtle",
+    "trans": [
+      "adj. 隐约/暗淡的;微妙的; 精细的; 敏感的; 机敏的."
+    ]
+  },
+  {
+    "name": "acquainted",
+    "trans": [
+      "adj. 熟悉的; 了解的; 有知识的; 有经验的\nI am not acquainted with the details of the proposal."
+    ]
+  },
+  {
+    "name": "acquire",
+    "trans": [
+      "v. 获得; 学到; 取得; 购得"
+    ]
+  },
+  {
+    "name": "acquired",
+    "trans": [
+      "adj. 后天习得的; 后天养成的; 后天获得的"
+    ]
+  },
+  {
+    "name": "arbitrary",
+    "trans": [
+      "adj. 任意的; 武断的; 专横的; 随心所欲的\nThe choice of players for the team seemed completely arbitrary."
+    ]
+  },
+  {
+    "name": "possession",
+    "trans": [
+      "n. 拥有; 所有权; 财产; 财物\nThe possession of a passport is essential for foreign travel."
+    ]
+  },
+  {
+    "name": "council",
+    "trans": [
+      "n. 委员会; 理事会; 会议; 商议"
+    ]
+  },
+  {
+    "name": "quench",
+    "trans": [
+      "v. 熄灭; 消除; 解渴; 使满足\nThe firemen were unable to quench the fire."
+    ]
+  },
+  {
+    "name": "evangelist",
+    "trans": [
+      "n. 福音传道者"
+    ]
+  },
+  {
+    "name": "meddle",
+    "trans": [
+      "v. 干涉; 干预; 管闲事; 乱搞\nI wish you'd stop meddling in my affairs."
+    ]
+  },
+  {
+    "name": "subjective",
+    "trans": [
+      "adj. 主观的; 个人的; 主观上的; 从主观方面来说的"
+    ]
+  },
+  {
+    "name": "objective",
+    "trans": [
+      "adj. 客观的; 不带偏见的; 无偏见的; 无倾向性的"
+    ]
+  },
+  {
+    "name": "correlate",
+    "trans": [
+      "v. 使相互关联; 使相互影响; 使相互有关系; 使相互一致\nThe two sets of figures correlate exactly."
+    ]
+  },
+  {
+    "name": "intuitive",
+    "trans": [
+      "adj. 直觉的; 凭直觉获知的; 直觉到的; 直觉而知的\nMost people have an intuitive sense of right and wrong."
+    ]
+  },
+  {
+    "name": "comprehension",
+    "trans": [
+      "n. 理解; 领悟; 包含; 包含力"
+    ]
+  },
+  {
+    "name": "asterisk",
+    "trans": [
+      "n. 星号; 星号记号; 星号符号; `*`"
+    ]
+  },
+  {
+    "name": "magnitude",
+    "trans": [
+      "n. 大小; 量级; 重要; 重大"
+    ]
+  },
+  {
+    "name": "versatile",
+    "trans": [
+      "adj. 多才多艺的; 多功能的; 多用途的; 通用的\nHe's a very versatile young actor who's as happy in highbrow dramas as he is in TV sitcoms."
+    ]
+  },
+  {
+    "name": "arithmetic",
+    "trans": [
+      "n. 算术"
+    ]
+  },
+  {
+    "name": "irrespective",
+    "trans": [
+      "without considering; not needing to allow for\nadj. 不考虑的; 不顾的; 不论的; 不顾及的\nThe legislation must be applied irrespective of someone's ethnic origins."
+    ]
+  },
+  {
+    "name": "acronym",
+    "trans": [
+      "n. 首字母缩略词; 首字母组合词; 首字母简称; 首字母缩写词"
+    ]
+  },
+  {
+    "name": "archive",
+    "trans": [
+      "n. 档案; 档案馆; 档案文件; 档案文件的集合"
+    ]
+  },
+  {
+    "name": "achieve",
+    "trans": [
+      "v. 完成; 达到; 取得; 实现"
+    ]
+  },
+  {
+    "name": "worship",
+    "trans": [
+      "v. 崇拜; 做礼拜; 做礼拜仪式; 做礼拜仪式"
+    ]
+  },
+  {
+    "name": "frontier",
+    "trans": [
+      "n. 边界; 边疆; 边境; 边缘"
+    ]
+  },
+  {
+    "name": "daunting",
+    "trans": [
+      "adj. 使人畏缩的; 使人气馁的; 使人沮丧的; 使人气馁的"
+    ]
+  },
+  {
+    "name": "curate",
+    "trans": [
+      "adj. 精选的; 精心挑选的; 精心策划的; 精心管理的"
+    ]
+  },
+  {
+    "name": "spatial",
+    "trans": [
+      "adj. 空间的; 空间上的; 空间性的; 空间学的"
+    ]
+  },
+  {
+    "name": "special",
+    "trans": [
+      "adj. 特别的; 专门的; 专用的; 专题的"
+    ]
+  },
+  {
+    "name": "recurrence relation",
+    "trans": [
+      "n. 递归关系"
+    ]
+  },
+  {
+    "name": "utterance",
+    "trans": [
+      "n. 说话; 说话方式; 说话的内容; 说话的方式\nThe utterance of such a remark was a mistake."
+    ]
+  },
+  {
+    "name": "flock",
+    "trans": [
+      "n. 群; 一群; 众多; 大量"
+    ]
+  },
+  {
+    "name": "illiterate",
+    "trans": [
+      "adj. 文盲的; 不识字的; 无知的; 无知识的"
+    ]
+  },
+  {
+    "name": "libertine",
+    "trans": [
+      "n. 放荡不羁者; 浪荡子; 自由思想家; 自由主义者"
+    ]
+  },
+  {
+    "name": "elevate",
+    "trans": [
+      "v. 提高; 提升; 举起; 抬起"
+    ]
+  },
+  {
+    "name": "tepid",
+    "trans": [
+      "adj. 微温的; 不太热心的; 不太热情的; 不太热烈的"
+    ]
+  },
+  {
+    "name": "denote",
+    "trans": [
+      "v. 表示; 指示; 意思是; 意味着; 代表"
+    ]
+  },
+  {
+    "name": "consolidation",
+    "trans": [
+      "n. 巩固; 合并; 坚强; 坚固"
+    ]
+  },
+  {
+    "name": "evident",
+    "trans": [
+      "adj. 明显的；明白的；显然的\nIt was evident that she was not satisfied with the result."
+    ]
+  },
+  {
+    "name": "coercion",
+    "trans": [
+      "n. 强制；强迫；高压政治\nHe claimed the police had used coercion, threats, and promises to obtain the statement illegally."
+    ]
+  },
+  {
+    "name": "deliberate",
+    "trans": [
+      "adj. 故意的；深思熟虑的；从容的\nWe made a deliberate decision to live apart for a while."
+    ]
+  },
+  {
+    "name": "enumerations",
+    "trans": [
+      "n. 枚举；列举；计数"
+    ]
+  },
+  {
+    "name": "concise",
+    "trans": [
+      "adj. 简明的；简洁的"
+    ]
+  },
+  {
+    "name": "pervasive",
+    "trans": [
+      "adj. 普遍的；遍布的；渗透的\nThe influence of Freud is pervasive in her books."
+    ]
+  },
+  {
+    "name": "toil",
+    "trans": [
+      "v. 辛苦工作；苦干；费力地行动; n. 苦工；辛苦；苦差事"
+    ]
+  },
+  {
+    "name": "poised",
+    "trans": [
+      "adj. 镇定的；平衡的；准备就绪的"
+    ]
+  },
+  {
+    "name": "correctness",
+    "trans": [
+      "n. 正确性；正确"
+    ]
+  },
+  {
+    "name": "rare",
+    "trans": [
+      "adj. 稀有的；罕见的；珍贵的"
+    ]
+  },
+  {
+    "name": "plague",
+    "trans": [
+      "n. 瘟疫；灾害；天灾；麻烦\nv. 折磨；使苦恼；使得灾祸"
+    ]
+  },
+  {
+    "name": "enlightened",
+    "trans": [
+      "adj. 开明的；有见识的；有学识的"
+    ]
+  },
+  {
+    "name": "confound",
+    "trans": [
+      "v. 使混淆；使困惑；挫败"
+    ]
+  },
+  {
+    "name": "concert",
+    "trans": [
+      "n. 音乐会；一致；和谐\nv. 协调；协同"
+    ]
+  },
+  {
+    "name": "ratified",
+    "trans": [
+      "v. 批准；认可；正式批准"
+    ]
+  },
+  {
+    "name": "enormous",
+    "trans": [
+      "adj. 巨大的；庞大的；极恶的"
+    ]
+  },
+  {
+    "name": "intellectual",
+    "trans": [
+      "adj. 知识分子的；智力的；理智的. n. 知识分子；有理性者"
+    ]
+  },
+  {
+    "name": "sophisticated",
+    "trans": [
+      "adj. 复杂的；精密的；久经世故的"
+    ]
+  },
+  {
+    "name": "scariest",
+    "trans": [
+      "adj. 可怕的；吓人的"
+    ]
+  },
+  {
+    "name": "discipline",
+    "trans": [
+      "n. 纪律；训练；惩罚\nv. 训练；惩罚；使有纪律"
+    ]
+  },
+  {
+    "name": "contiguous",
+    "trans": [
+      "adj. 接壤的；邻近的；毗连的"
+    ]
+  },
+  {
+    "name": "revolve",
+    "trans": [
+      "v. 旋转；考虑；反复思考"
+    ]
+  },
+  {
+    "name": "constitute",
+    "trans": [
+      "v. 构成；组成；设立"
+    ]
+  },
+  {
+    "name": "counterparts",
+    "trans": [
+      "n. 相对物；副本；复本"
+    ]
+  },
+  {
+    "name": "notion",
+    "trans": [
+      "n. 概念；观念；想法；打算"
+    ]
+  },
+  {
+    "name": "eliminate",
+    "trans": [
+      "v. 消除；排除；淘汰"
+    ]
+  },
+  {
+    "name": "arcane",
+    "trans": [
+      "adj. 神秘的；秘密的；晦涩难懂的"
+    ]
+  },
+  {
+    "name": "elaborate",
+    "trans": [
+      "adj. 精心制作的；详尽的；复杂的. v. 详细阐述；精心制作；推敲"
+    ]
+  },
+  {
+    "name": "explanatory",
+    "trans": [
+      "adj. 解释的；说明的"
+    ]
+  },
+  {
+    "name": "enthusiast",
+    "trans": [
+      "n. 热心家；狂热者；爱好者"
+    ]
+  },
+  {
+    "name": "hemisphere",
+    "trans": [
+      "n. 半球；半球地图；半球体"
+    ]
+  },
+  {
+    "name": "comprise",
+    "trans": [
+      "v. 包含；由...组成；由...构成"
+    ]
+  },
+  {
+    "name": "dilemma",
+    "trans": [
+      "n. 困境；进退两难的局面"
+    ]
+  },
+  {
+    "name": "velocity",
+    "trans": [
+      "n. 速度；迅速；敏捷"
+    ]
+  },
+  {
+    "name": "inevitable",
+    "trans": [
+      "adj. 不可避免的；必然的"
+    ]
+  },
+  {
+    "name": "over the course of",
+    "trans": [
+      "在...期间"
+    ]
+  },
+  {
+    "name": "rationale",
+    "trans": [
+      "n. 基本原理；基本原因；根据"
+    ]
+  },
+  {
+    "name": "merit",
+    "trans": [
+      "n. 优点；价值；功绩\nv. 值得；应受"
+    ]
+  },
+  {
+    "name": "intimate",
+    "trans": [
+      "adj. 亲密的；私人的；精通的\nv. 暗示；通知；宣布"
+    ]
+  },
+  {
+    "name": "posterity",
+    "trans": [
+      "n. 后代；子孙；后世"
+    ]
+  },
+  {
+    "name": "underneath",
+    "trans": [
+      "prep. 在...下面；在...底下. adv. 在下面；在底下. adj. 下面的；底下的"
+    ]
+  },
+  {
+    "name": "nurture",
+    "trans": [
+      "v. 养育；培育；教养"
+    ]
+  },
+  {
+    "name": "perspective",
+    "trans": [
+      "n. 观点；远景；透视图；判断力"
+    ]
+  },
+  {
+    "name": "assess",
+    "trans": [
+      "v. 评估；评定；对...征税"
+    ]
+  },
+  {
+    "name": "conduct",
+    "trans": [
+      "v. 引导；实施；指挥；传导"
+    ]
+  },
+  {
+    "name": "hostile",
+    "trans": [
+      "adj. 敌对的；不友好的；有害的"
+    ]
+  },
+  {
+    "name": "discrimination",
+    "trans": [
+      "n. 歧视；辨别力；识别力"
+    ]
+  },
+  {
+    "name": "rapport",
+    "trans": [
+      "n. 和睦；友好；融洽"
+    ]
+  },
+  {
+    "name": "treadmill",
+    "trans": [
+      "n. 踏车；跑步机；单调的工作"
+    ]
+  },
+  {
+    "name": "introverted",
+    "trans": [
+      "adj. 内向的；内倾的"
+    ]
+  },
+  {
+    "name": "extroverted",
+    "trans": [
+      "adj. 外向的；性格外向的"
+    ]
+  },
+  {
+    "name": "bait",
+    "trans": [
+      "n. 饵；引诱物；诱饵"
+    ]
+  },
+  {
+    "name": "chronological",
+    "trans": [
+      "adj. 按时间顺序的；依时间前后排列而记载的"
+    ]
+  },
+  {
+    "name": "particular",
+    "trans": [
+      "adj. 特别的；详细的；挑剔的；苛求的"
+    ]
+  },
+  {
+    "name": "apprentice",
+    "trans": [
+      "n. 学徒；生手；初学者; v. 使...当学徒；使...学习"
+    ]
+  },
+  {
+    "name": "sacred",
+    "trans": [
+      "adj. 神圣的；宗教的；庄严的；神圣不可侵犯的"
+    ]
+  },
+  {
+    "name": "half-heartedly",
+    "trans": [
+      "adv. 不热心地；不认真地"
+    ]
+  },
+  {
+    "name": "stride",
+    "trans": [
+      "v. 大步走；跨过；跨越；跨入; n. 大步；步态；进展"
+    ]
+  },
+  {
+    "name": "coarse",
+    "trans": [
+      "adj. 粗糙的；粗俗的；下等的；粗鲁的"
+    ]
+  },
+  {
+    "name": "mightiest",
+    "trans": [
+      "adj. 强大的；有力的；有势力的"
+    ]
+  },
+  {
+    "name": "perceive",
+    "trans": [
+      "v. 察觉；感知；理解；认知"
+    ]
+  },
+  {
+    "name": "boast",
+    "trans": [
+      "v. 自夸；以有...而自豪；以...而自豪；有...值得自夸;  n. 自夸；值得夸耀的事物"
+    ]
+  },
+  {
+    "name": "wager",
+    "trans": [
+      "n. 赌注；赌博；打赌；赌钱; v. 打赌；赌博；以...打赌"
+    ]
+  },
+  {
+    "name": "roam",
+    "trans": [
+      "v. 漫游；漫步；闲逛；漫谈"
+    ]
+  },
+  {
+    "name": "adorn",
+    "trans": [
+      "v. 装饰；使生色；佩戴"
+    ]
+  },
+  {
+    "name": "augmenting",
+    "trans": [
+      "v. 增加；增大；增多"
+    ]
+  },
+  {
+    "name": "pertain to",
+    "trans": [
+      "v. 属于；关于；适合\nThe rules pertain to everyone."
+    ]
+  },
+  {
+    "name": "simultaneous",
+    "trans": [
+      "adj. 同时的；同时存在的"
+    ]
+  },
+  {
+    "name": "hesitant",
+    "trans": [
+      "adj. 犹豫的；踌躇的"
+    ]
+  },
+  {
+    "name": "tenure",
+    "trans": [
+      "n. *任期*；终身职位；占有"
+    ]
+  },
+  {
+    "name": "incorporate",
+    "trans": [
+      "v. 包含；合并；吸收；使并入"
+    ]
+  },
+  {
+    "name": "upheaval",
+    "trans": [
+      "n. 剧变；动乱；举起"
+    ]
+  },
+  {
+    "name": "cadence",
+    "trans": [
+      "n. 节奏；韵律；抑扬顿挫"
+    ]
+  },
+  {
+    "name": "rigid",
+    "trans": [
+      "adj. 严格的；僵硬的；刚硬的；死板的"
+    ]
+  },
+  {
+    "name": "emit",
+    "trans": [
+      "v. 发出；放射；散发；发表"
+    ]
+  },
+  {
+    "name": "overzealous",
+    "trans": [
+      "adj. 过于热心的；过于热情的"
+    ]
+  },
+  {
+    "name": "extent",
+    "trans": [
+      "n. 程度；范围；长度"
+    ]
+  },
+  {
+    "name": "grumble",
+    "trans": [
+      "v. 抱怨；发牢骚；咕哝; n. 怨言；牢骚；咕哝"
+    ]
+  },
+  {
+    "name": "novice",
+    "trans": [
+      "n. 新手；初学者；生手"
+    ]
+  },
+  {
+    "name": "detractor",
+    "trans": [
+      "n. 诋毁者；贬低者；贬损者"
+    ]
+  },
+  {
+    "name": "manifes",
+    "trans": [
+      "adj. 明显的；显然的；明白的；清楚的; v. 显示；表明；证明；使显现"
+    ]
+  },
+  {
+    "name": "fertilizerjj",
+    "trans": [
+      "n. 肥料; 化肥"
+    ]
+  },
+  {
+    "name": "presence",
+    "trans": [
+      "n. 出席；存在；风度；仪态"
+    ]
+  },
+  {
+    "name": "continental",
+    "trans": [
+      "adj. 大陆的；大陆性的；欧洲大陆的"
+    ]
+  },
+  {
+    "name": "mingle",
+    "trans": [
+      "v. 混合；联合；交往；相往来"
+    ]
+  }
+]
