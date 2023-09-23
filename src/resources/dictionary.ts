@@ -4,6 +4,17 @@ import { calcChapterCount } from '@/utils'
 // 中国考试
 const chinaExam: DictionaryResource[] = [
   {
+    id: 'CELPIP',
+    name: 'CELPIP',
+    description: '加拿大英语水平考试',
+    category: '国际考试',
+    tags: ['CELPIP'],
+    url: '/dicts/CELPIP.json',
+    length: 334,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
     id: 'cet4',
     name: 'CET-4',
     description: '大学英语四级词库',
