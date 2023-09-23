@@ -1,142 +1,530 @@
 [
   {
-    "name": "plunge",
+    "name": "tranquilize",
     "trans": [
-      "vt.使投入，使陷入，vi.投入，骤降，使...陷入，全神贯注于，n.突然跌落，跳水"
+      "v. 使平静; 使镇静; 使安静.\nThe doctor tranquilized the patient with a sedative."
+    ]
+  },
+  {
+    "name": "reassure",
+    "trans": [
+      "v. 使安心; 使放心; 使消除疑虑.\nHe reassured me that he would be back soon."
+    ]
+  },
+  {
+    "name": "correspondence",
+    "trans": [
+      "n. 通信; 信件; 一致; 相当.\nI have had no correspondence from him since he left."
+    ]
+  },
+  {
+    "name": "curb",
+    "trans": [
+      "n. 抑制; 控制; 路缘; 勒马绳 v. 抑制; 控制; 勒住(马).\nHe was unable to curb his curiosity."
+    ]
+  },
+  {
+    "name": "neglectful",
+    "trans": [
+      "adj. 疏忽的; 粗心大意的; 忘记的; 不留心的.\nHe was neglectful of his duties."
+    ]
+  },
+  {
+    "name": "antiseptic",
+    "trans": [
+      "adj. 防腐的; 防腐剂的; 消过毒的; 无菌的 n. 防腐剂; 消过毒剂; 无菌剂.\nAntiseptic is used to clean the wound."
+    ]
+  },
+  {
+    "name": "tar",
+    "trans": [
+      "n. 焦油; 柏油; 煤焦油; 柏油船 v. 涂以焦油; 涂以柏油.\nTar is used to make roads."
+    ]
+  },
+  {
+    "name": "bark",
+    "trans": [
+      "n. 树皮; 狗吠声; 咆哮声; 咳嗽声 v. 吠叫; 咆哮; 咳嗽; 剥(树皮).\nThe dog barked at the stranger."
+    ]
+  },
+  {
+    "name": "sap",
+    "trans": [
+      "n. 树液; 活力; 精力; 深蓝色 v. 消弱; 使失去活力; 使衰竭.\nHe was sapped by the heat."
+    ]
+  },
+  {
+    "name": "connotation",
+    "trans": [
+      "n. 内涵; 言外之意; 隐含意义.\nWhat is the connotation of this word?"
+    ]
+  },
+  {
+    "name": "convey",
+    "trans": [
+      "v. 传达; 运输; 传送; 传播.\nHe conveyed the message to me."
+    ]
+  },
+  {
+    "name": "faculty",
+    "trans": [
+      "n. 能力; 才能; 全体教员; 全体教职员工.\nHe has a faculty for languages."
     ]
   },
   {
     "name": "deteriorate",
     "trans": [
-      "v.变坏，恶化"
+      "v. 恶化; 变坏; 退化; 堕落.\nHis health deteriorated rapidly."
     ]
   },
   {
     "name": "decay",
     "trans": [
-      "vi.腐烂，衰败，n.腐烂，衰退"
+      "v. 腐烂; 衰退; 腐朽; 腐败 n. 腐烂; 衰退; 腐朽; 腐败.\nThe wood had begun to decay."
     ]
   },
   {
     "name": "throttle",
     "trans": [
-      "节流阀；[车辆] 风门；喉咙",
-      "压制，扼杀；使……窒息；使……节流"
+      "n. 节流阀; 油门; 喉咙 v. 勒死; 压制; 使窒息; 使发动机失火.\nThe police throttled the robber."
     ]
   },
   {
     "name": "decelerate",
     "trans": [
-      "减速，降低速度"
+      "v. 减速; 使减速; 使减缓.\nHe decelerated the car."
     ]
   },
   {
     "name": "dwindle",
     "trans": [
-      "v. 减少； 缩小"
+      "v. 减少; 缩小; 变小; 逐渐变小.\nThe population of the town dwindled to 500."
     ]
   },
   {
     "name": "diminish",
     "trans": [
-      "v. 减少，缩小"
+      "v. 减少; 缩小; 降低; 轻视.\nHis influence has diminished."
     ]
   },
   {
     "name": "scarcity",
     "trans": [
-      "n. 缺乏；不足"
+      "n. 缺乏; 不足; 稀少; 少量.\nThere is a scarcity of food in the area."
     ]
   },
   {
     "name": "scarce",
     "trans": [
-      "adj.缺乏的，希有的，不足的，罕见的，adv.勉强"
+      "adj. 缺乏的; 不足的; 稀有的; 罕见的.\nFood was scarce during the war."
     ]
   },
   {
     "name": "stringent",
     "trans": [
-      "严厉的； 迫切的"
+      "adj. 严格的; 严厉的; 迫切的; 紧迫的.\nStringent measures are needed to prevent further spread of the disease."
     ]
   },
   {
     "name": "alleviate",
     "trans": [
-      "vt.减轻，缓和"
+      "v. 减轻; 缓和; 缓解; 使不那么严重.\nHe took some aspirin to alleviate his headache."
     ]
   },
   {
     "name": "ascent",
     "trans": [
-      "上升；  提高； 攀登； 上坡路"
+      "n. 上升; 攀登; 上坡路; 上坡.\nHe made a rapid ascent of the cliff."
+    ]
+  },
+  {
+    "name": "broth",
+    "trans": [
+      "n. 肉汤; 菜汤; 高汤; 汤."
+    ]
+  },
+  {
+    "name": "cheek",
+    "trans": [
+      "n. 脸颊; 脸蛋; 厚颜; 无耻."
     ]
   },
   {
     "name": "soar",
     "trans": [
-      "v.高飞，翱翔"
+      "v. 高飞; 高耸; 猛增; 猛涨.\nThe eagle soared into the sky."
     ]
   },
   {
     "name": "appreciation",
     "trans": [
-      "n. 欣赏,鉴赏,赏识\n评定；判断；鉴定\n(尤指土地或财产的)增值\n感激；感谢\n(尤指赞赏性的)评论文字"
+      "n. 欣赏; 鉴赏; 感激; 感谢.\nI have no appreciation of modern art."
+    ]
+  },
+  {
+    "name": "hesitant",
+    "trans": [
+      "adj. 犹豫的; 不情愿的; 不乐意的; 不情愿的. ]\nHe was hesitant about accepting the offer."
+    ]
+  },
+  {
+    "name": "measure",
+    "trans": [
+      "n. 措施; 办法; 尺寸; 度量衡 v. 测量; 估量; 量度; 评估.\nHe took measures to prevent the spread of the disease."
+    ]
+  },
+  {
+    "name": "recreation",
+    "trans": [
+      "n. 娱乐; 消遣; 休养; 重建.\nHe goes to the cinema for recreation."
+    ]
+  },
+  {
+    "name": "acquire",
+    "trans": [
+      "v. 获得; 得到; 学到; 养成.\nNearby residents succeeded in acquiring environmental protection for the Gatineau Hills area."
+    ]
+  },
+  {
+    "name": "thrifty",
+    "trans": [
+      "adj. 节俭的; 节约的; 节省的; 精打细算的.\nHe is thrifty in his habits."
+    ]
+  },
+  {
+    "name": "elevation",
+    "trans": [
+      "n. 高度; 海拔; 提高; 提升.\nThe elevation of the mountain is 2; 000 metres."
+    ]
+  },
+  {
+    "name": "tease",
+    "trans": [
+      "v. 取笑; 戏弄; 招惹; 引起兴趣 n. 取笑; 戏弄; 逗乐; 诱惑物.\nHe teased her about her new boyfriend."
+    ]
+  },
+  {
+    "name": "pessimistic",
+    "trans": [
+      "adj. 悲观的; 悲观主义的; 悲观情绪的.\nHe is pessimistic about the future."
+    ]
+  },
+  {
+    "name": "charter",
+    "trans": [
+      "n. 宪章; 特许状; 包租; 租船 v. 包租; 租船; 特许; 颁发宪章.\nThey chartered a bus to take us to the airport."
+    ]
+  },
+  {
+    "name": "dweller",
+    "trans": [
+      "n. 居民; 居住者; 居住在某处的人."
+    ]
+  },
+  {
+    "name": "advocate",
+    "trans": [
+      "n. 提倡者; 拥护者; 辩护者 v. 提倡; 拥护; 辩护; 鼓吹.\nHe advocates the return of capital punishment."
+    ]
+  },
+  {
+    "name": "petition",
+    "trans": [
+      "n. 请愿书; 申请书; 诉状 v. 请愿; 申请; 诉状.\nHe petitioned the court for a divorce."
+    ]
+  },
+  {
+    "name": "poultry",
+    "trans": [
+      "n. 家禽; 家禽肉; 家禽饲养; 家禽饲养业.\nWe keep poultry for eggs and meat."
+    ]
+  },
+  {
+    "name": "inadvertently",
+    "trans": [
+      "adv. 不经意地; 疏忽地; 无意地.\nHe inadvertently left the door unlocked."
+    ]
+  },
+  {
+    "name": "accommodate",
+    "trans": [
+      "v. 容纳; 为…提供住处; 使适应; 顺应.\nThe hotel can accommodate up to 500 guests."
+    ]
+  },
+  {
+    "name": "grime",
+    "trans": [
+      "n. 污垢; 灰尘; 油垢 v. 使变脏; 使污秽; 使沾污.\nHis hands were covered in grime."
+    ]
+  },
+  {
+    "name": "sustainable",
+    "trans": [
+      "adj. 可持续的; 能保持一定水平的; 能忍受的; 可以忍耐的.\nWe must develop sustainable energy sources."
+    ]
+  },
+  {
+    "name": "abundant",
+    "trans": [
+      "adj. 丰富的; 充裕的; 大量的; 丰富充裕的.\nThere is abundant evidence that cars have a harmful effect on the environment."
+    ]
+  },
+  {
+    "name": "abundance",
+    "trans": [
+      "n. 丰富; 充裕; 大量; 丰富充裕.\nThere is an abundance of wildlife in the forest."
+    ]
+  },
+  {
+    "name": "costlier",
+    "trans": [
+      "adj. 昂贵的; 代价高的; 价值高的\nThe costlier the wine; the better it tastes."
+    ]
+  },
+  {
+    "name": "viable",
+    "trans": [
+      "adj. 可行的; 能养活的; 能生育的; 能生长发育的\nThe plan is not economically viable."
+    ]
+  },
+  {
+    "name": "resin",
+    "trans": [
+      "n. 树脂; 松香; 合成树脂"
+    ]
+  },
+  {
+    "name": "latex",
+    "trans": [
+      "n. 乳液; 胶乳; 橡胶乳"
+    ]
+  },
+  {
+    "name": "treacle",
+    "trans": [
+      "n. 糖浆; 糖蜜; 糖蜜糖"
+    ]
+  },
+  {
+    "name": "substance",
+    "trans": [
+      "n. 物质; 实质; 主旨; 要点"
+    ]
+  },
+  {
+    "name": "temple",
+    "trans": [
+      "n. 太阳穴; 鬓角; 寺庙"
+    ]
+  },
+  {
+    "name": "archaeological",
+    "trans": [
+      "adj. 考古学的; 考古学上的"
+    ]
+  },
+  {
+    "name": "bursary",
+    "trans": [
+      "n. 奖学金; 助学金; 学生宿舍"
+    ]
+  },
+  {
+    "name": "carpool",
+    "trans": [
+      "n. 拼车; 共乘汽车"
+    ]
+  },
+  {
+    "name": "grocery",
+    "trans": [
+      "n. 食品杂货店; 食品杂货"
+    ]
+  },
+  {
+    "name": "groceries",
+    "trans": [
+      "n. 食品杂货店; 食品杂货"
+    ]
+  },
+  {
+    "name": "crude",
+    "trans": [
+      "adj. 粗糙的; 粗鲁的; 粗略的; 未加修饰的\ncrude oil 原油; crude steel 生钢; crude ore 生矿; crude fiber 粗纤维"
+    ]
+  },
+  {
+    "name": "petroleum",
+    "trans": [
+      "n. 石油; 石油类产品"
+    ]
+  },
+  {
+    "name": "abandoned",
+    "trans": [
+      "adj. 被抛弃的; 被遗弃的; 被离弃的; 被抛开的"
+    ]
+  },
+  {
+    "name": "abandon",
+    "trans": [
+      "v. 放弃; 抛弃; 遗弃; 放纵"
+    ]
+  },
+  {
+    "name": "soybean",
+    "trans": [
+      "n. 大豆; 黄豆"
+    ]
+  },
+  {
+    "name": "soysauce",
+    "trans": [
+      "n. 酱油"
+    ]
+  },
+  {
+    "name": "canola",
+    "trans": [
+      "n. 菜籽油; 芥花籽油"
+    ]
+  },
+  {
+    "name": "nonetheless",
+    "trans": [
+      "adv. 尽管如此; 然而; 不过"
+    ]
+  },
+  {
+    "name": "pesticide",
+    "trans": [
+      "n. 杀虫剂; 农药; 殺蟲劑"
+    ]
+  },
+  {
+    "name": "pest",
+    "trans": [
+      "n. 害虫; 有害的动物; 讨厌的人"
+    ]
+  },
+  {
+    "name": "udnergoing",
+    "trans": [
+      "adj. 经历中的; 进行中的\nbe undergoing"
+    ]
+  },
+  {
+    "name": "idiom",
+    "trans": [
+      "n. 成语; 习语; 习惯用语; 方言"
+    ]
+  },
+  {
+    "name": "nervous",
+    "trans": [
+      "adj. 神经质的; 紧张不安的; 神经的"
+    ]
+  },
+  {
+    "name": "anxiety",
+    "trans": [
+      "n. 焦虑; 忧虑; 渴望"
+    ]
+  },
+  {
+    "name": "anxious",
+    "trans": [
+      "adj. 焦虑的; 担心的; 渴望的"
+    ]
+  },
+  {
+    "name": "persuade",
+    "trans": [
+      "v. 说服; 劝说; 使相信"
+    ]
+  },
+  {
+    "name": "convince",
+    "trans": [
+      "v. 使确信; 使信服; 说服"
+    ]
+  },
+  {
+    "name": "quantity",
+    "trans": [
+      "n. 数量; 量; 大量"
+    ]
+  },
+  {
+    "name": "situated",
+    "trans": [
+      "adj. 位于. . . 的; 坐落在. . . 的; 处于. . . 境地的"
+    ]
+  },
+  {
+    "name": "mild",
+    "trans": [
+      "adj. 温和的; 轻微的; 味淡的; 不含有害物质的"
+    ]
+  },
+  {
+    "name": "plunge",
+    "trans": [
+      "vt. 使投入; 使陷入; vi. 投入; 骤降; 使. . . 陷入; 全神贯注于; n. 突然跌落; 跳水"
     ]
   },
   {
     "name": "arousal",
     "trans": [
-      "唤起， 激起"
+      "n. 唤醒; 激励; 激发"
     ]
   },
   {
     "name": "outperform",
     "trans": [
-      "vt.胜过；做得比……好"
+      "vt. 胜过; 做得比……好"
     ]
   },
   {
     "name": "summit",
     "trans": [
-      "n. (山等的)最高点; 峰顶\n高层会议"
+      "n. (山等的)最高点; 峰顶; 高层会议"
     ]
   },
   {
     "name": "reinforce",
     "trans": [
-      "vt.增援，支援，加强，vi.得到加强"
+      "vt. 增援; 支援; 加强; vi. 得到加强"
     ]
   },
   {
     "name": "intensify",
     "trans": [
-      "vt.使加强，使强化；使变激烈vi.增强，强化；变激烈"
+      "vt. 使加强; 使强化; 使变激烈; vi. 增强; 强化; 变激烈"
     ]
   },
   {
     "name": "fortify",
     "trans": [
-      "支持， 给…以勇气； 加强， 增强； 筑防御工事于"
+      "支持; 给…以勇气; 加强; 增强; 筑防御工事于"
     ]
   },
   {
     "name": "confusion",
     "trans": [
-      "n. 困惑, 糊涂\n混淆, 混同\n混乱, 骚乱"
+      "n. 困惑; 糊涂; 混淆; 混同; 混乱; 骚乱"
     ]
   },
   {
     "name": "puzzle",
     "trans": [
-      "n.难题，谜惑，vi.使迷惑，使困惑，解决，vi.迷惑，苦思"
+      "n. 难题; 谜惑; vi. 使迷惑; 使困惑; 解决; vi. 迷惑; 苦思"
     ]
   },
   {
     "name": "disarray",
     "trans": [
-      "n. 无秩序；杂乱；衣冠不整",
-      "v. 使混乱；弄乱；使脱去衣服"
+      "n. 无秩序; 杂乱; 衣冠不整; v. 使混乱; 弄乱; 使脱去衣服"
     ]
   },
   {
@@ -148,19 +536,19 @@
   {
     "name": "skepticism",
     "trans": [
-      "n. 怀疑论；怀疑的态度"
+      "n. 怀疑论; 怀疑的态度"
     ]
   },
   {
     "name": "cynical",
     "trans": [
-      "adj. 愤世嫉俗的， 怀疑的"
+      "adj. 愤世嫉俗的; 怀疑的"
     ]
   },
   {
     "name": "sarcasm",
     "trans": [
-      "n. 挖苦， 讽刺"
+      "n. 挖苦; 讽刺"
     ]
   },
   {
@@ -172,7 +560,7 @@
   {
     "name": "quip",
     "trans": [
-      "n. 嘲弄， 挖苦话； 双关语"
+      "n. 嘲弄; 挖苦话; 双关语"
     ]
   },
   {
@@ -190,26 +578,25 @@
   {
     "name": "slap",
     "trans": [
-      "掴，掌击，拍；啪的一声放 (vt.)",
-      "掴， 掌击， 拍 (n.)"
+      "掴; 掌击; 拍; 啪的一声放 (vt. )\n掴; 掌击; 拍 (n. )"
     ]
   },
   {
     "name": "scoff",
     "trans": [
-      "嘲笑， 讥笑"
+      "嘲笑; 讥笑"
     ]
   },
   {
     "name": "resent",
     "trans": [
-      "v.怨恨"
+      "v. 怨恨"
     ]
   },
   {
     "name": "intrigue",
     "trans": [
-      "v.引起兴趣"
+      "v. 引起兴趣"
     ]
   },
   {
@@ -221,26 +608,19 @@
   {
     "name": "passive",
     "trans": [
-      "a. 被动的；消极的"
-    ]
-  },
-  {
-    "name": "pessimistic",
-    "trans": [
-      "adj. 悲观的; 悲观主义的"
+      "a. 被动的; 消极的"
     ]
   },
   {
     "name": "fluff",
     "trans": [
-      "绒毛；错误；无价值的东西",
-      "念错；抖松；使…起毛"
+      "绒毛; 错误; 无价值的东西\n念错; 抖松; 使…起毛"
     ]
   },
   {
     "name": "productive",
     "trans": [
-      "adj.生产的，丰饶的，有生产价值的，多产的"
+      "adj. 生产的; 丰饶的; 有生产价值的; 多产的"
     ]
   },
   {
@@ -252,25 +632,25 @@
   {
     "name": "harmless",
     "trans": [
-      "adj无害的，不会导致损伤的"
+      "adj无害的; 不会导致损伤的"
     ]
   },
   {
     "name": "flawed",
     "trans": [
-      "有缺点的； 错误的"
+      "有缺点的; 错误的"
     ]
   },
   {
     "name": "defect",
     "trans": [
-      "n.缺点，缺陷，欠缺，vi.背叛"
+      "n. 缺点; 缺陷; 欠缺; vi. 背叛"
     ]
   },
   {
     "name": "virtue",
     "trans": [
-      "n. 美德, 德行\n优点, 长处"
+      "n. 美德; 德行\n优点; 长处"
     ]
   },
   {
@@ -282,55 +662,55 @@
   {
     "name": "adversity",
     "trans": [
-      "不幸， 灾祸"
+      "不幸; 灾祸"
     ]
   },
   {
     "name": "misfortune",
     "trans": [
-      "n. 不幸；不幸的事故"
+      "n. 不幸; 不幸的事故"
     ]
   },
   {
     "name": "calamity",
     "trans": [
-      "大灾祸， 灾难， 不幸"
+      "大灾祸; 灾难; 不幸"
     ]
   },
   {
     "name": "fraudulent",
     "trans": [
-      "欺诈的， 欺骗性的"
+      "欺诈的; 欺骗性的"
     ]
   },
   {
     "name": "cruel",
     "trans": [
-      "adj.残忍的，残酷的，引起痛苦的"
+      "adj. 残忍的; 残酷的; 引起痛苦的"
     ]
   },
   {
     "name": "cruelty",
     "trans": [
-      "n. 残酷；残酷的行为；残忍"
+      "n. 残酷; 残酷的行为; 残忍"
     ]
   },
   {
     "name": "innocuous",
     "trans": [
-      "无害的； 无毒的"
+      "无害的; 无毒的"
     ]
   },
   {
     "name": "homicide",
     "trans": [
-      "过失杀人；杀人犯"
+      "过失杀人; 杀人犯"
     ]
   },
   {
     "name": "corpse",
     "trans": [
-      "死尸， 尸体 (n.)"
+      "死尸; 尸体 (n. )"
     ]
   },
   {
@@ -342,7 +722,7 @@
   {
     "name": "stiff",
     "trans": [
-      "adj.，硬的，僵直的，生硬的，拘谨的，不灵活的，adv.，僵硬地，极其，n.，死尸，过于拘谨的人，流浪汉，吝啬鬼，醉鬼vt.，诈骗，失信不给小费"
+      "adj. ; 硬的; 僵直的; 生硬的; 拘谨的; 不灵活的; adv. ; 僵硬地; 极其; n. ; 死尸; 过于拘谨的人; 流浪汉; 吝啬鬼; 醉鬼vt. ; 诈骗; 失信不给小费"
     ]
   },
   {
@@ -354,14 +734,13 @@
   {
     "name": "bolster",
     "trans": [
-      "支持；改善",
-      "垫子， 枕垫"
+      "支持; 改善\n垫子; 枕垫"
     ]
   },
   {
     "name": "uphold",
     "trans": [
-      "vt. 支撑；鼓励；赞成；举起"
+      "vt. 支撑; 鼓励; 赞成; 举起"
     ]
   },
   {
@@ -371,63 +750,57 @@
     ]
   },
   {
-    "name": "advocate",
-    "trans": [
-      "n.提倡者；支持者；律师vt.提倡，主张，拥护"
-    ]
-  },
-  {
     "name": "supporter",
     "trans": [
-      "n. 支持者；拥护者"
+      "n. 支持者; 拥护者"
     ]
   },
   {
     "name": "proponent",
     "trans": [
-      "n. (某事业、理论等的)支持者,拥护者"
+      "n. (某事业、理论等的)支持者; 拥护者"
     ]
   },
   {
     "name": "applaud",
     "trans": [
-      "喝彩， 欢呼， 鼓掌 A"
+      "喝彩; 欢呼; 鼓掌 A"
     ]
   },
   {
     "name": "critic",
     "trans": [
-      "n. 批评家，评论家；爱挑剔的人"
+      "n. 批评家; 评论家; 爱挑剔的人"
     ]
   },
   {
     "name": "opponent",
     "trans": [
-      "n.对手,反对者,敌手 adj.对立的,对抗的"
+      "n. 对手; 反对者; 敌手 adj. 对立的; 对抗的"
     ]
   },
   {
     "name": "oppose",
     "trans": [
-      "v.反对，反抗"
+      "v. 反对; 反抗"
     ]
   },
   {
     "name": "opposition",
     "trans": [
-      "n.反对；反对派；在野党；敌对"
+      "n. 反对; 反对派; 在野党; 敌对"
     ]
   },
   {
     "name": "grievance",
     "trans": [
-      "n.不平，冤屈"
+      "n. 不平; 冤屈"
     ]
   },
   {
     "name": "repercussion",
     "trans": [
-      "反响；弹回；反射；浮动诊胎法；令人不满意的后果"
+      "反响; 弹回; 反射; 浮动诊胎法; 令人不满意的后果"
     ]
   },
   {
@@ -439,170 +812,169 @@
   {
     "name": "reverse",
     "trans": [
-      "n. 相反; 背面; 失败, 挫折 adj. 反面的, 相反的, 颠倒的 v. 颠倒, 逆转, 倒退"
+      "n. 相反; 背面; 失败; 挫折 adj. 反面的; 相反的; 颠倒的 v. 颠倒; 逆转; 倒退"
     ]
   },
   {
     "name": "odd",
     "trans": [
-      "adj. 古怪的，零散的"
+      "adj. 古怪的; 零散的"
     ]
   },
   {
     "name": "even",
     "trans": [
-      "adj. 平坦的, 偶数的, 相等的 adv. 甚至, 恰好, 正当 v. 使平坦, 相等"
+      "adj. 平坦的; 偶数的; 相等的 adv. 甚至; 恰好; 正当 v. 使平坦; 相等"
     ]
   },
   {
     "name": "overlook",
     "trans": [
-      "vt.眺望，俯瞰，远眺，看漏，放任，没注意到，忽视，n.高出"
+      "vt. 眺望; 俯瞰; 远眺; 看漏; 放任; 没注意到; 忽视; n. 高出"
     ]
   },
   {
     "name": "disregard",
     "trans": [
-      "n. 不理会, 漠视 vt. 忽视, 不顾"
+      "n. 不理会; 漠视 vt. 忽视; 不顾"
     ]
   },
   {
     "name": "oversee",
     "trans": [
-      "监视； 检查； 视察"
+      "监视; 检查; 视察"
     ]
   },
   {
     "name": "competence",
     "trans": [
-      "n. 能力, 技能\n(法院的)权限, 管辖权"
+      "n. 能力; 技能\n(法院的)权限; 管辖权"
     ]
   },
   {
     "name": "incompetence",
     "trans": [
-      "n.无资格，不胜任；无能力；不适当；不熟练"
+      "n. 无资格; 不胜任; 无能力; 不适当; 不熟练"
     ]
   },
   {
     "name": "manicure",
     "trans": [
-      "修剪，美甲",
-      "修指甲，美甲"
+      "修剪; 美甲\n修指甲; 美甲"
     ]
   },
   {
     "name": "sustain",
     "trans": [
-      "vt.支撑，支持，供养，忍受，承受，经受，维持，认可"
+      "vt. 支撑; 支持; 供养; 忍受; 承受; 经受; 维持; 认可"
     ]
   },
   {
     "name": "persist",
     "trans": [
-      "vi.存留，坚持；持续，固执vt.坚持说，反复说"
+      "vi. 存留; 坚持; 持续; 固执vt. 坚持说; 反复说"
     ]
   },
   {
     "name": "insist",
     "trans": [
-      "v.(on)坚持"
+      "v. (on)坚持"
     ]
   },
   {
     "name": "resist",
     "trans": [
-      "v.抵抗，反抗"
+      "v. 抵抗; 反抗"
     ]
   },
   {
     "name": "subsist",
     "trans": [
-      "存活， 生存"
+      "存活; 生存"
     ]
   },
   {
     "name": "costly",
     "trans": [
-      "adj.昂贵的，豪华的"
+      "adj. 昂贵的; 豪华的"
     ]
   },
   {
     "name": "costless",
     "trans": [
-      "adj.不花钱的；无须付出代价的"
+      "adj. 不花钱的; 无须付出代价的"
     ]
   },
   {
     "name": "revise",
     "trans": [
-      "vt.修订，校订，校正，修改，n.校订，修正，再校稿"
+      "vt. 修订; 校订; 校正; 修改; n. 校订; 修正; 再校稿"
     ]
   },
   {
     "name": "review",
     "trans": [
-      "n. 检讨, 复习, 回顾, 评审 vt. 温习, 检讨, 评论, 检阅 vi. 写评论"
+      "n. 检讨; 复习; 回顾; 评审 vt. 温习; 检讨; 评论; 检阅 vi. 写评论"
     ]
   },
   {
     "name": "castle",
     "trans": [
-      "n.城堡，巨大建筑物，vt.置于城堡中，(棋)移动王车易位，vi.(棋)移动王车易位"
+      "n. 城堡; 巨大建筑物; vt. 置于城堡中; (棋)移动王车易位; vi. (棋)移动王车易位"
     ]
   },
   {
     "name": "canteen",
     "trans": [
-      "n. 小卖部, 食堂\n水壶, 水罐"
+      "n. 小卖部; 食堂; 水壶; 水罐"
     ]
   },
   {
     "name": "dwelling",
     "trans": [
-      "n.住处，寓所"
+      "n. 住处; 寓所"
     ]
   },
   {
     "name": "tribe",
     "trans": [
-      "n. 部落；宗族；一伙；[生]族"
+      "n. 部落; 宗族; 一伙; 族"
     ]
   },
   {
     "name": "tribal",
     "trans": [
-      "a.部落的"
+      "adj. 部落的; 种族的"
     ]
   },
   {
     "name": "ranch",
     "trans": [
-      "大牧场， 饲养场"
+      "n. 大牧场; 饲养场"
     ]
   },
   {
     "name": "villa",
     "trans": [
-      "别墅；郊区住宅"
+      "别墅; 郊区住宅"
     ]
   },
   {
     "name": "cottage",
     "trans": [
-      "n.村舍，小屋"
+      "n. 村舍; 小屋"
     ]
   },
   {
     "name": "suburban",
     "trans": [
-      "a.见识不广的，偏狭的"
+      "a. 见识不广的; 偏狭的"
     ]
   },
   {
     "name": "amenity",
     "trans": [
-      "n. 舒适；礼仪；愉快；便利设施"
+      "n. 舒适; 礼仪; 愉快; 便利设施"
     ]
   },
   {
@@ -620,13 +992,13 @@
   {
     "name": "passage",
     "trans": [
-      "n.章节；段落"
+      "n. 章节; 段落"
     ]
   },
   {
     "name": "drastic",
     "trans": [
-      "n.烈性泻药adj.激烈的；猛烈的"
+      "n. 烈性泻药adj. 激烈的; 猛烈的"
     ]
   },
   {
@@ -644,68 +1016,61 @@
   {
     "name": "posit",
     "trans": [
-      "安排； 假定"
+      "安排; 假定"
     ]
   },
   {
     "name": "chilly",
     "trans": [
-      "寒冷的； 冷淡的， 不友好的"
-    ]
-  },
-  {
-    "name": "stiff",
-    "trans": [
-      "adj.，硬的，僵直的，生硬的，拘谨的，不灵活的，adv.，僵硬地，极其，n.，死尸，过于拘谨的人，流浪汉，吝啬鬼，醉鬼vt.，诈骗，失信不给小费"
+      "寒冷的; 冷淡的; 不友好的"
     ]
   },
   {
     "name": "chipper",
     "trans": [
-      "爽朗的， 活泼的"
+      "爽朗的; 活泼的"
     ]
   },
   {
     "name": "eager",
     "trans": [
-      "adj.热切的，渴望的"
+      "adj. 热切的; 渴望的"
     ]
   },
   {
     "name": "eagerness",
     "trans": [
-      "n.渴望；热心"
+      "n. 渴望; 热心"
     ]
   },
   {
     "name": "mint",
     "trans": [
-      "铸造",
-      "薄荷； 造币厂； 大量的钱"
+      "铸造\n薄荷; 造币厂; 大量的钱"
     ]
   },
   {
     "name": "monotonous",
     "trans": [
-      "a.枯燥的，乏味的，单调的"
+      "a. 枯燥的; 乏味的; 单调的"
     ]
   },
   {
     "name": "paramount",
     "trans": [
-      "至为重要的； 最高权力的， 至尊的"
+      "至为重要的; 最高权力的; 至尊的"
     ]
   },
   {
     "name": "slick",
     "trans": [
-      "圆滑的， 口齿伶俐的； 精巧的， 巧妙的， 灵巧的； 光滑的， 滑溜的 (adj.)"
+      "圆滑的; 口齿伶俐的; 精巧的; 巧妙的; 灵巧的; 光滑的; 滑溜的 (adj. )"
     ]
   },
   {
     "name": "prevalent",
     "trans": [
-      "adj. 普遍的, 盛行的, 流行的"
+      "adj. 普遍的; 盛行的; 流行的"
     ]
   },
   {
@@ -717,25 +1082,25 @@
   {
     "name": "transparent",
     "trans": [
-      "adj.透明的，易识破的，明显的，清晰的"
+      "adj. 透明的; 易识破的; 明显的; 清晰的"
     ]
   },
   {
     "name": "vulnerable",
     "trans": [
-      "adj. 易受伤的, 脆弱的, 敏感的"
+      "adj. 易受伤的; 脆弱的; 敏感的"
     ]
   },
   {
     "name": "vulnerability",
     "trans": [
-      "n. 弱点,攻击"
+      "n. 弱点; 攻击"
     ]
   },
   {
     "name": "voluntary",
     "trans": [
-      "adj.自愿的，志愿的，n.(教堂礼拜仪式前后或进行期间的)乐器\n独奏"
+      "adj. 自愿的; 志愿的; n. (教堂礼拜仪式前后或进行期间的)乐器\n独奏"
     ]
   },
   {
@@ -747,94 +1112,79 @@
   {
     "name": "robust",
     "trans": [
-      "a.强健的"
+      "a. 强健的"
     ]
   },
   {
     "name": "wary",
     "trans": [
-      "小心翼翼的， 留神的， 警惕的"
+      "小心翼翼的; 留神的; 警惕的"
     ]
   },
   {
     "name": "tactic",
     "trans": [
-      "n. 方法, 策略\n战术, 兵法"
+      "n. 方法; 策略\n战术; 兵法"
     ]
   },
   {
     "name": "durable",
     "trans": [
-      "adj.耐久的，耐用的，n.(复)耐用品"
+      "adj. 耐久的; 耐用的; n. (复)耐用品"
     ]
   },
   {
     "name": "complimentary",
     "trans": [
-      "adj.赠送的；称赞的；问候的"
-    ]
-  },
-  {
-    "name": "neglectful",
-    "trans": [
-      "疏忽的；忽略的；不小心的"
+      "adj. 赠送的; 称赞的; 问候的"
     ]
   },
   {
     "name": "negligent",
     "trans": [
-      "忽略的； 疏忽的； 粗心大意的"
+      "忽略的; 疏忽的; 粗心大意的"
     ]
   },
   {
     "name": "thoughtful",
     "trans": [
-      "adj.认真思考的，体贴的"
-    ]
-  },
-  {
-    "name": "antiseptic",
-    "trans": [
-      "防腐的， 杀菌的， 消过毒的",
-      "防腐剂，杀菌剂"
+      "adj. 认真思考的; 体贴的"
     ]
   },
   {
     "name": "precedent",
     "trans": [
-      "n.先例；前例adj.在前的；在先的"
+      "n. 先例; 前例adj. 在前的; 在先的"
     ]
   },
   {
     "name": "unprecedented",
     "trans": [
-      "adj.空前的；无前例的"
+      "adj. 空前的; 无前例的"
     ]
   },
   {
     "name": "predecessor",
     "trans": [
-      "n. 前任, 前辈\n(被取代的)原有事物, 前身"
+      "n. 前任; 前辈\n(被取代的)原有事物; 前身"
     ]
   },
   {
     "name": "irreversible",
     "trans": [
-      "不能撤回的， 不能取消的"
+      "不能撤回的; 不能取消的"
     ]
   },
   {
     "name": "contemplative",
     "trans": [
-      "沉思的",
-      "沉思者"
+      "沉思的\n沉思者"
     ]
   },
   {
     "name": "stark",
     "trans": [
-      "十足",
-      "赤裸的；严酷的，严峻的；明显的，鲜明的；十足的，极端的"
+      "十足\n赤裸的; 严酷的; 严峻的; 明显的; 鲜明的; 十足的; 极端的"
     ]
   },
   {
@@ -846,7 +1196,7 @@
   {
     "name": "problematic",
     "trans": [
-      "adj. 成问题的；有疑问的；阴暗的\nadv. 成问题地，有疑问地"
+      "adj. 成问题的; 有疑问的; 阴暗的\nadv. 成问题地; 有疑问地"
     ]
   },
   {
@@ -864,543 +1214,535 @@
   {
     "name": "preliminary",
     "trans": [
-      "adj. 初步的, 预备的, 开端的\nn. 准备工作, 初步行动"
+      "adj. 初步的; 预备的; 开端的\nn. 准备工作; 初步行动"
     ]
   },
   {
     "name": "belligerent",
     "trans": [
-      "好战的， 好斗的； 交战国的； 交战的"
+      "好战的; 好斗的; 交战国的; 交战的"
     ]
   },
   {
     "name": "hostile",
     "trans": [
-      "adj. 怀有敌意的, 不友善的\n敌人的, 敌方的"
+      "adj. 怀有敌意的; 不友善的\n敌人的; 敌方的"
     ]
   },
   {
     "name": "mottled",
     "trans": [
-      "有杂色的， 斑驳的"
+      "有杂色的; 斑驳的"
     ]
   },
   {
     "name": "abruptly",
     "trans": [
-      "ad.突然地，意外地"
+      "ad. 突然地; 意外地"
     ]
   },
   {
     "name": "hastily",
     "trans": [
-      "匆忙地，慌忙地"
+      "匆忙地; 慌忙地"
     ]
   },
   {
     "name": "harshly",
     "trans": [
-      "严酷地， 无情地"
+      "严酷地; 无情地"
     ]
   },
   {
     "name": "lavishly",
     "trans": [
-      "ad.慷慨地，大方地"
+      "ad. 慷慨地; 大方地"
     ]
   },
   {
     "name": "reluctantly",
     "trans": [
-      "adv.不情愿地；嫌恶地"
+      "adv. 不情愿地; 嫌恶地"
     ]
   },
   {
     "name": "reluctant",
     "trans": [
-      "adj.不愿的，勉强的"
+      "adj. 不愿的; 勉强的"
     ]
   },
   {
     "name": "sentimentally",
     "trans": [
-      "ad.感情上，多情地"
+      "ad. 感情上; 多情地"
     ]
   },
   {
     "name": "myth",
     "trans": [
-      "n. 神话；虚构的人，虚构的事"
+      "n. 神话; 虚构的人; 虚构的事"
     ]
   },
   {
     "name": "assure",
     "trans": [
-      "vt.使确信，向...保证，保险，保证，确信，担保"
+      "vt. 使确信; 向. . . 保证; 保险; 保证; 确信; 担保"
     ]
   },
   {
     "name": "philanthropy",
     "trans": [
-      "慈爱； 慈善事业"
+      "慈爱; 慈善事业"
     ]
   },
   {
     "name": "refrain",
     "trans": [
-      "n. 叠句，副歌；重复vi. 节制，克制；避免；制止"
+      "n. 叠句; 副歌; 重复vi. 节制; 克制; 避免; 制止"
     ]
   },
   {
     "name": "auction",
     "trans": [
-      "n.拍卖vt.拍卖；竞卖"
+      "n. 拍卖vt. 拍卖; 竞卖"
     ]
   },
   {
     "name": "ranger",
     "trans": [
-      "突击队员；漫游者；骑警；别动队员"
+      "突击队员; 漫游者; 骑警; 别动队员"
     ]
   },
   {
     "name": "slander",
     "trans": [
-      "v.诽谤"
+      "v. 诽谤"
     ]
   },
   {
     "name": "heed",
     "trans": [
-      "注意， 留心"
+      "注意; 留心"
     ]
   },
   {
     "name": "compel",
     "trans": [
-      "vt.强迫，迫使屈服"
+      "vt. 强迫; 迫使屈服"
     ]
   },
   {
     "name": "comply",
     "trans": [
-      "vi.遵守；顺从，遵从；答应"
+      "vi. 遵守; 顺从; 遵从; 答应"
     ]
   },
   {
     "name": "shun",
     "trans": [
-      "v.避开"
+      "v. 避开"
     ]
   },
   {
     "name": "tackle",
     "trans": [
-      "n. 滑车；装备；用具；扭倒vi. 扭倒；拦截抢球vt. 处理；抓住；固定；与…交涉"
+      "n. 滑车; 装备; 用具; 扭倒vi. 扭倒; 拦截抢球vt. 处理; 抓住; 固定; 与…交涉"
     ]
   },
   {
     "name": "excel",
     "trans": [
-      "vi. 擅长，善于；胜过他人vt. 胜过平时"
+      "vi. 擅长; 善于; 胜过他人vt. 胜过平时"
     ]
   },
   {
     "name": "concede",
     "trans": [
-      "承认， 承认…为真；退让， 允许， 让步， 给予 A"
+      "承认; 承认…为真; 退让; 允许; 让步; 给予 A"
     ]
   },
   {
     "name": "squander",
     "trans": [
-      "浪费， 挥霍"
+      "浪费; 挥霍"
     ]
   },
   {
     "name": "revoke",
     "trans": [
-      "撤销， 撤回； 取消， 废除"
+      "撤销; 撤回; 取消; 废除"
     ]
   },
   {
     "name": "renovate",
     "trans": [
-      "修复； 更新， 翻新"
+      "修复; 更新; 翻新"
     ]
   },
   {
     "name": "era",
     "trans": [
-      "n.时代，年代，纪元"
+      "n. 时代; 年代; 纪元"
     ]
   },
   {
     "name": "dub",
     "trans": [
-      "给…起绰号， 把…称为； 为配音， 译制 (vt.)"
+      "vt. 起绰号; 把…称为; 把…配音; 用刀轻拍"
     ]
   },
   {
     "name": "bid",
     "trans": [
-      "n.出价；叫牌；努力争取vi.投标；吩咐vt.投标；出价；表示；吩咐"
+      "n. 出价; 叫牌; 努力争取; vi. 投标; 吩咐vt. 投标; 出价; 表示; 吩咐"
     ]
   },
   {
     "name": "breach",
     "trans": [
-      "裂缝， 缺口 A",
-      "打破， 裂开；违背"
+      "n. 违背; 破坏; 缺口; v. 违反; 破坏; 突破"
     ]
   },
   {
     "name": "pastime",
     "trans": [
-      "消遣， 娱乐 (n.)"
+      "n. 消遣; 娱乐"
     ]
   },
   {
     "name": "outing",
     "trans": [
-      "n（集体）出外游玩，远足"
+      "n. (集体)出外游玩; 远足"
     ]
   },
   {
     "name": "effusive",
     "trans": [
-      "过分热情的"
+      "adj. 流出的; 感情横溢的; 溢于言表的"
     ]
   },
   {
     "name": "affection",
     "trans": [
-      "n.慈爱，爱，爱慕，影响，喜爱，感情"
+      "n. 慈爱; 爱; 爱慕; 影响; 喜爱; 感情"
     ]
   },
   {
     "name": "enthusiasm",
     "trans": [
-      "n. 热情, 热心\n巨大兴趣, 热衷的事物"
+      "n. 热情; 热心; 热忱"
     ]
   },
   {
     "name": "niche",
     "trans": [
-      "壁龛；合适的职业；[亦称作 niche market]【商业】有利可图的市场(或形势等)",
-      "放入壁龛"
+      "n. 壁龛; 合适的位置; 适当的职业; 专业"
     ]
   },
   {
     "name": "windfall",
     "trans": [
-      "意外之财；被风吹落的果子；意外的收获"
+      "n. 意外之财; 意外收获"
     ]
   },
   {
     "name": "coarse",
     "trans": [
-      "adj.粗的，粗糙的，非精制的，粗俗的"
+      "adj. 粗的; 粗糙的; 非精制的; 粗俗的"
     ]
   },
   {
     "name": "answerable",
     "trans": [
-      "应负责的"
+      "adj. 负责的; 有责任的; 可回答的; 有解释义务的"
     ]
   },
   {
     "name": "accountable",
     "trans": [
-      "adj. 有责任的；有解释义务的；可解释的"
+      "adj. 有责任的; 有解释义务的; 可解释的"
     ]
   },
   {
     "name": "affluent",
     "trans": [
-      "a.富有的"
+      "adj. 富裕的; 丰富的; n. 富人; 有钱人"
     ]
   },
   {
     "name": "amused",
     "trans": [
-      "a.有趣的"
+      "adj. 感到有趣的; 被逗乐的"
     ]
   },
   {
     "name": "feasible",
     "trans": [
-      "adj. 可行的；可能的；可实行的"
+      "adj. 可行的; 可能的; 可实行的"
     ]
   },
   {
     "name": "forthcoming",
     "trans": [
-      "n.来临adj.即将来临的"
+      "n. 来临; adj. 即将来临的"
     ]
   },
   {
     "name": "overwhelming",
     "trans": [
-      "adj.压倒性的；势不可挡的v.压倒；淹没（overwhelm的ing形式）；制服"
+      "adj. 压倒性的; 势不可挡的v. 压倒; 淹没(overwhelm的ing形式); 制服"
     ]
   },
   {
     "name": "spacious",
     "trans": [
-      "a.宽敞的"
+      "adj. 宽敞的; 广阔的"
     ]
   },
   {
     "name": "stunning",
     "trans": [
-      "极富魅力的"
+      "adj. 极好的; 令人惊叹的; 使人晕倒的"
     ]
   },
   {
     "name": "tropical",
     "trans": [
-      "adj. 热带的；酷热的；热情的"
+      "adj. 热带的; 酷热的; 热情的"
     ]
   },
   {
     "name": "elegant",
     "trans": [
-      "a.优美别致的"
+      "adj. 优雅的; 雅致的; 优美的"
     ]
   },
   {
     "name": "glamorous",
     "trans": [
-      "adj.迷人的，富有魅力的"
+      "adj. 迷人的; 富有魅力的"
     ]
   },
   {
     "name": "obsolete",
     "trans": [
-      "adj. 已废弃的, 过时的"
+      "adj. 已废弃的; 过时的"
     ]
   },
   {
     "name": "extravagant",
     "trans": [
-      "a.浪费的，奢侈的"
+      "a. 浪费的; 奢侈的"
     ]
   },
   {
     "name": "consistent",
     "trans": [
-      "adj. 始终如一的, 一致的, 坚持的"
+      "adj. 始终如一的; 一致的; 坚持的"
     ]
   },
   {
     "name": "sprawling",
     "trans": [
-      "植物蔓生的， 无计划地扩展的"
+      "植物蔓生的; 无计划地扩展的"
     ]
   },
   {
     "name": "minor",
     "trans": [
-      "adj.较小的，较次要的，二流的，未成年的，n.未成年人，辅修科目，[音乐]小调，vi.辅修"
+      "adj. 较小的; 较次要的; 二流的; 未成年的; n. 未成年人; 辅修科目; [音乐]小调; vi. 辅修"
     ]
   },
   {
     "name": "spiteful",
     "trans": [
-      "a.恶意的，怀恨的"
+      "adj. 恶意的; 怀恨的; 恶毒的"
     ]
   },
   {
     "name": "vengeful",
     "trans": [
-      "复仇的，报复的；复仇心重的"
+      "adj. 报复的; 复仇心重的"
     ]
   },
   {
     "name": "elaborate",
     "trans": [
-      "adj.复杂的，精心制作的，精细的，详尽的，精心的，v.详细地说明\n用心地作，推敲"
+      "adj. 复杂的; 精心制作的; 精细的; 详尽的; 精心的; v. 详细地说明; 用心地作; 推敲"
     ]
   },
   {
     "name": "therapeutic",
     "trans": [
-      "adj. 治疗(学)的;疗法的\n对身心健康有益的"
+      "adj. 治疗(学)的; 疗法的; 对身心健康有益的"
     ]
   },
   {
     "name": "controversy",
     "trans": [
-      "n. 争论；论战；辩论"
+      "n. 争论; 论战; 辩论"
     ]
   },
   {
     "name": "conservation",
     "trans": [
-      "n. 保存, 保护, 避免浪费\n对自然环境的保护"
+      "n. 保存; 保护; 避免浪费; 对自然环境的保护"
     ]
   },
   {
     "name": "resolution",
     "trans": [
-      "n.决心； 解决； 坚决； 分辨率"
+      "n. 决心; 解决; 坚决; 分辨率"
     ]
   },
   {
     "name": "intervention",
     "trans": [
-      "n. 介入, 干涉, 干预"
+      "n. 介入; 干涉; 干预"
     ]
   },
   {
     "name": "intervene",
     "trans": [
-      "vi. 插入,介入,干涉,调停 [计算机] 介入"
+      "vi. 插入; 介入; 干涉; 调停 [计算机] 介入"
     ]
   },
   {
     "name": "interfere",
     "trans": [
-      "vi. 妨碍,冲突,干涉"
+      "vi. 妨碍; 冲突; 干涉"
     ]
   },
   {
     "name": "distort",
     "trans": [
-      "v.歪曲"
+      "v. 歪曲"
     ]
   },
   {
     "name": "discretion",
     "trans": [
-      "判断 ， 辨别  ； 慎重， 谨慎"
+      "判断; 辨别; 慎重; 谨慎"
     ]
   },
   {
     "name": "reign",
     "trans": [
-      "n.君主统治(时期)，执政，王朝，支配，vi.当政，统治，占优势，支\n配，盛行"
+      "n. 君主统治(时期); 执政; 王朝; 支配; vi. 当政; 统治; 占优势; 支配; 盛行"
     ]
   },
   {
     "name": "enactment",
     "trans": [
-      "制订， 颁布； 法律， 法规"
+      "n. 制定; 颁布; 演出; 表演"
     ]
   },
   {
     "name": "litigation",
     "trans": [
-      "诉讼；起诉"
+      "n. 诉讼; 起诉"
     ]
   },
   {
     "name": "lawsuit",
     "trans": [
-      "n. 诉讼（尤指非刑事案件）；诉讼案件"
+      "n. 诉讼（尤指非刑事案件）; 诉讼案件"
     ]
   },
   {
     "name": "accusation",
     "trans": [
-      "n. 指责；指控；控告\n(被告发、控告的)罪名，罪状"
+      "n. 指责; 指控; 控告\n(被告发、控告的)罪名; 罪状"
     ]
   },
   {
     "name": "contentious",
     "trans": [
-      "好争吵的； 争论的， 有异议的"
+      "好争吵的; 争论的; 有异议的"
     ]
   },
   {
     "name": "reprimand",
     "trans": [
-      "v.训斥"
+      "v. 训斥"
     ]
   },
   {
     "name": "subsidize",
     "trans": [
-      "vt. 资助；给与奖助金；向…行贿"
+      "vt. 资助; 给与奖助金; 向…行贿"
     ]
   },
   {
     "name": "revenue",
     "trans": [
-      "n. 收入，收益；财政收入，税收"
+      "n. 收入; 收益; 财政收入; 税收"
     ]
   },
   {
     "name": "elite",
     "trans": [
-      "n. （社会）上层集团；掌权人物；出类拔萃的人，精英\nadj.（社会）上层集团的；掌权人物的；精英的"
+      "n. (社会)上层集团; 掌权人物; 出类拔萃的人; 精英; adj. (社会)上层集团的; 掌权人物的; 精英的"
     ]
   },
   {
     "name": "compensation",
     "trans": [
-      "n. 补偿[赔偿]物, 补偿[赔偿]金"
+      "n. 补偿(赔偿)物; 补偿(赔偿)金; 报酬"
     ]
   },
   {
     "name": "commitment",
     "trans": [
-      "n. 承诺；保证；信奉；献身；委任；花费金钱、时间、人力等"
+      "n. 承诺; 保证; 信奉; 献身; 委任; 花费金钱、时间、人力等"
     ]
   },
   {
     "name": "implementation",
     "trans": [
-      "n. 贯彻，执行"
+      "n. 贯彻; 执行"
     ]
   },
   {
     "name": "demonstration",
     "trans": [
-      "n. 示范,实证,表达,集会"
+      "n. 示范; 实证; 表达; 集会"
     ]
   },
   {
     "name": "backlog",
     "trans": [
-      "订单积压， 未交订货； 积压未办之事"
-    ]
-  },
-  {
-    "name": "philanthropy",
-    "trans": [
-      "慈爱； 慈善事业"
+      "n. 积压的工作; 拖欠的工作; 拖欠的积压物; 积压的积木"
     ]
   },
   {
     "name": "monetary",
     "trans": [
-      "adj.货币的；财政的"
+      "adj. 货币的; 财政的"
     ]
   },
   {
     "name": "jurisdiction",
     "trans": [
-      "n. 司法权，审判权，管辖权；权限，权力"
+      "n. 司法权; 审判权; 管辖权; 权限; 权力"
     ]
   },
   {
     "name": "territory",
     "trans": [
-      "n. 领土, 版图\n管区, 营业地区\n地盘, 领域, 范围"
+      "n. 领土; 版图; 管区; 营业地区; 地盘; 领域; 范围"
     ]
   },
   {
     "name": "sovereignty",
     "trans": [
-      "n. 最高统治权, 君权\n国家的主权"
+      "n. 最高统治权; 君权; 国家的主权"
     ]
   },
   {
     "name": "thrive",
     "trans": [
-      "vi.兴旺，繁荣，旺盛，茁壮成长"
+      "vi. 兴旺; 繁荣; 旺盛; 茁壮成长"
     ]
   },
   {
@@ -1412,488 +1754,139 @@
   {
     "name": "bullet",
     "trans": [
-      "n. 子弹；只选某党全部候选人的投票；[美俚]豆子\nvi. 射出；迅速行进"
+      "n. 子弹; 只选某党全部候选人的投票; vi. 射出; 迅速行进"
     ]
   },
   {
     "name": "senator",
     "trans": [
-      "n.参议员；（古罗马的）元老院议员；评议员，理事"
+      "n. 参议员; （古罗马的）元老院议员; 评议员; 理事"
     ]
   },
   {
     "name": "regulator",
     "trans": [
-      "n. 调整者；监管者；校准器"
+      "n. 调整者; 监管者; 校准器"
     ]
   },
   {
     "name": "delegate",
     "trans": [
-      "代表，代表团成员['delɪg3ɪt]",
-      "委派…为代表； 授给…， 把…委托给…"
+      "n. 代表; 委员; vt. 委派…为代表; vi. 委派代表"
     ]
   },
   {
     "name": "councillor",
     "trans": [
-      "议员；顾问；参赞（等于councilor）"
+      "n. 顾问; 委员; 议员"
     ]
   },
   {
     "name": "managerial",
     "trans": [
-      "[管理] 管理的；经理的"
+      "adj. 管理的; 经理的"
     ]
   },
   {
     "name": "municipal",
     "trans": [
-      "市的， 市政的 (adj.)"
+      "市的; 市政的 (adj. )"
     ]
   },
   {
     "name": "municipality",
     "trans": [
-      "n.市政当局"
+      "n. 市政当局"
     ]
   },
   {
     "name": "citywide",
     "trans": [
-      "全市的， 全市性的"
+      "n. 全市; 全市范围内的"
     ]
   },
   {
     "name": "democratic",
     "trans": [
-      "adj.民主(主义) 的"
+      "adj. 民主(主义) 的"
     ]
   },
   {
     "name": "communal",
     "trans": [
-      "adj. 公共的；公社的"
+      "adj. 公共的; 公社的"
     ]
   },
   {
     "name": "minister",
     "trans": [
-      "n.部长，大臣，公使，vi.照顾，给予帮助"
+      "n. 部长; 大臣; 公使; vi. 照顾; 给予帮助"
     ]
   },
   {
     "name": "convention",
     "trans": [
-      "n.会议； 全体与会者； 国际公约； 惯例，习俗，规矩"
-    ]
-  },
-  {
-    "name": "let down",
-    "trans": [
-      "放下； 放低； 降低； 减弱; 使失望(let sb down)"
+      "n. 会议; 全体与会者; 国际公约; 惯例; 习俗; 规矩"
     ]
   },
   {
     "name": "extend",
     "trans": [
-      "vt. 延长；扩大；给予；伸出；提供\nvi. 延伸；扩大；延期"
+      "vt. 延长; 扩大; 给予; 伸出; 提供\nvi. 延伸; 扩大; 延期"
     ]
   },
   {
     "name": "extent",
     "trans": [
-      "n. 程度；范围；长度"
-    ]
-  },
-  {
-    "name": "go over",
-    "trans": [
-      "检查；复习; review"
-    ]
-  },
-  {
-    "name": "out of the question",
-    "trans": [
-      "不可能的； 不值得考虑的"
-    ]
-  },
-  {
-    "name": "out of question",
-    "trans": [
-      "毫无疑问"
-    ]
-  },
-  {
-    "name": "stick out a mile",
-    "trans": [
-      "十分明显; 显而易见"
-    ]
-  },
-  {
-    "name": "stick out like a sore thumb",
-    "trans": [
-      "惹人注目; 处境尴尬"
-    ]
-  },
-  {
-    "name": "balk at",
-    "trans": [
-      "畏缩不前; 犹豫不决"
-    ]
-  },
-  {
-    "name": "a flock of",
-    "trans": [
-      "一群 (鸟, 羊等)"
-    ]
-  },
-  {
-    "name": "overshadowed by",
-    "trans": [
-      "被...所掩盖; 被...所忽视"
-    ]
-  },
-  {
-    "name": "verbal account",
-    "trans": [
-      "口头解释; 口头报告"
-    ]
-  },
-  {
-    "name": "written account",
-    "trans": [
-      "书面解释; 书面报告"
-    ]
-  },
-  {
-    "name": "standing watter",
-    "trans": [
-      "书面解释; 书面报告"
-    ]
-  },
-  {
-    "name": "pull one's weight",
-    "trans": [
-      "尽力而为; 尽力做好本分工作"
-    ]
-  },
-  {
-    "name": "fulfil a duty/promise/responsibility",
-    "trans": [
-      "履行职责; 兑现诺言; 尽责"
-    ]
-  },
-  {
-    "name": "data breach",
-    "trans": [
-      "履行职责; 兑现诺言; 尽责"
-    ]
-  },
-  {
-    "name": "strike a chord",
-    "trans": [
-      "引起共鸣; 使产生共鸣"
-    ]
-  },
-  {
-    "name": "leisure pursuit",
-    "trans": [
-      "休闲爱好"
-    ]
-  },
-  {
-    "name": "catch up on sth",
-    "trans": [
-      "赶上; 追上; 弥补"
-    ]
-  },
-  {
-    "name": "catch up on sth",
-    "trans": [
-      "赶上; 追上; 弥补"
+      "n. 程度; 范围; 长度"
     ]
   },
   {
     "name": "sleigh",
     "trans": [
-      "n.雪橇；v.乘雪橇"
-    ]
-  },
-  {
-    "name": "misfortune never comes singly",
-    "trans": [
-      "祸不单行"
-    ]
-  },
-  {
-    "name": "metropolis",
-    "trans": [
-      "n. 大都市；首府；重要中心"
-    ]
-  },
-  {
-    "name": "over joyed",
-    "trans": [
-      "非常高兴的; 狂喜"
-    ]
-  },
-  {
-    "name": "touch on",
-    "trans": [
-      "谈及; 涉及; 碰到; 触及",
-      "The professor briefly touched on the topic of climate change during today's lecture."
-    ]
-  },
-  {
-    "name": "gloss over",
-    "trans": [
-      "掩饰; 潦草地处理",
-      "The manager tried to gloss over the mistakes made by the team and quickly moved on to the next agenda item."
-    ]
-  },
-  {
-    "name": "brush off",
-    "trans": [
-      "拂去",
-      "The teacher brushed off the chalk dust from the blackboard."
-    ]
-  },
-  {
-    "name": "point out",
-    "trans": [
-      "指出; 指明",
-      "The teacher pointed out the mistakes in my essay."
-    ]
-  },
-  {
-    "name": "hush over",
-    "trans": [
-      "平息; 使安静;",
-      "The teacher hushed over the students who were talking in class."
-    ]
-  },
-  {
-    "name": "gush over",
-    "trans": [
-      "滔滔不绝地说",
-      "The teacher gushed over the students who presented an exceptional science project, praising their creativity and attention to detail."
-    ]
-  },
-  {
-    "name": "stretch over",
-    "trans": [
-      "延伸",
-      "The teacher stretched the rubber band over the box."
-    ]
-  },
-  {
-    "name": "rear offspring",
-    "trans": [
-      "养育后代",
-      "The mother bird reared her offspring in the nest."
-    ]
-  },
-  {
-    "name": "be derived from",
-    "trans": [
-      "源于",
-      "The word \"robot\" is derived from the Czech word \"robota\", which means \"forced labor\"."
-    ]
-  },
-  {
-    "name": "not to mention",
-    "trans": [
-      "更不用说",
-      "The new smartphone is equipped with a high-resolution camera, not to mention a powerful processor."
-    ]
-  },
-  {
-    "name": "crushing blow",
-    "trans": [
-      "毁灭性打击",
-      "The team's loss in the final game was a crushing blow to their morale."
-    ]
-  },
-  {
-    "name": "frighten off",
-    "trans": [
-      "吓跑",
-      "The dog frightened off the burglar."
-    ]
-  },
-  {
-    "name": "asteroid strike",
-    "trans": [
-      "小行星撞击",
-      "The asteroid strike caused a mass extinction of dinosaurs."
-    ]
-  },
-  {
-    "name": "at fixed intervals",
-    "trans": [
-      "定期",
-      "The bus arrives at fixed intervals."
-    ]
-  },
-  {
-    "name": "good call",
-    "trans": [
-      "明智的决定",
-      "The coach's decision to replace the injured player with a substitute was a good call."
-    ]
-  },
-  {
-    "name": "highway shield",
-    "trans": [
-      "公路标志"
-    ]
-  },
-  {
-    "name": "sign logo",
-    "trans": [
-      "标志"
-    ]
-  },
-  {
-    "name": "take a rain check",
-    "trans": [
-      "改天再说; 搁置",
-      "The couple took a rain check on the dinner invitation."
-    ]
-  },
-  {
-    "name": "for seconds",
-    "trans": [
-      "再来一份",
-      "The children asked for seconds of the delicious dessert."
-    ]
-  },
-  {
-    "name": "market share",
-    "trans": [
-      "市场份额\n例句:The company's market share has been steadily increasing over the past few years."
-    ]
-  },
-  {
-    "name": "market force",
-    "trans": [
-      "市场力量\n例句: The market force of supply and demand determines the price of a product."
-    ]
-  },
-  {
-    "name": "share price",
-    "trans": [
-      "股价\n例句: The company's share price has been steadily increasing over the past few years."
-    ]
-  },
-  {
-    "name": "company intranet",
-    "trans": [
-      "公司内部网"
-    ]
-  },
-  {
-    "name": "niche market",
-    "trans": [
-      "利基市场\n例句: The company is targeting a niche market."
-    ]
-  },
-  {
-    "name": "bottom line",
-    "trans": [
-      "底线\n例句: The company's bottom line has been steadily increasing over the past few years."
-    ]
-  },
-  {
-    "name": "knock out",
-    "trans": [
-      "击倒\n例句: The boxer knocked out his opponent in the first round."
-    ]
-  },
-  {
-    "name": "on the house",
-    "trans": [
-      "免费\n例句: The restaurant will pay for everyone's orders."
-    ]
-  },
-  {
-    "name": "pay off",
-    "trans": [
-      "还清\n例句: The company paid off its debt."
-    ]
-  },
-  {
-    "name": "civil servant",
-    "trans": [
-      "公务员",
-      "例句: The civil servant was accused of corruption."
-    ]
-  },
-  {
-    "name": "tighten up",
-    "trans": [
-      "加强",
-      "例句: The company tightened up its security measures."
+      "n. 雪橇; v. 乘雪橇"
     ]
   },
   {
     "name": "pedicure",
     "trans": [
-      "足部护理"
+      "n. 足部护理; 足部修饰"
     ]
   },
   {
     "name": "loon",
     "trans": [
-      "疯子；傻子；怪人. 潜鸟"
-    ]
-  },
-  {
-    "name": "take a dive",
-    "trans": [
-      "跳水; (股票) 猛跌",
-      "例句: The diver took a dive into the pool."
+      "n. 愚人; 疯子; 懒人; 水鸟"
     ]
   },
   {
     "name": "itchy",
     "trans": [
-      "发痒的",
-      "例句: The mosquito bite is itchy."
+      "发痒的\nThe mosquito bite is itchy."
     ]
   },
   {
     "name": "mandated",
     "trans": [
-      "强制的",
-      "例句: The law mandated that all citizens must pay taxes."
+      "强制的\nThe law mandated that all citizens must pay taxes."
     ]
   },
   {
     "name": "piggyback",
     "trans": [
-      "背着",
-      "例句: The mother piggybacked her child."
-    ]
-  },
-  {
-    "name": "FEDs",
-    "trans": [
-      "美国联邦"
+      "背着\nThe mother piggybacked her child."
     ]
   },
   {
     "name": "republican-backed",
     "trans": [
-      "共和党支持的"
+      "adj. 共和党支持的"
     ]
   },
   {
     "name": "loyalist",
     "trans": [
-      "adj. 忠诚的人",
-      "例句: The loyalist was accused of treason."
+      "adj. 忠诚的人\nThe loyalist was accused of treason."
     ]
   },
   {
@@ -1905,110 +1898,61 @@
   {
     "name": "cubicle",
     "trans": [
-      "n. 小隔间",
-      "例句: The office cubicle is too small."
+      "n. 小隔间\nThe office cubicle is too small."
     ]
   },
   {
     "name": "intimidating",
     "trans": [
-      "adj. 令人紧张的，吓人的"
-    ]
-  },
-  {
-    "name": "be worn out",
-    "trans": [
-      "疲惫不堪",
-      "例句: The runner was worn out after the marathon."
-    ]
-  },
-  {
-    "name": "get worn out",
-    "trans": [
-      "磨损",
-      "例句: The shoes got worn out after a few months."
+      "adj. 令人紧张的; 吓人的"
     ]
   },
   {
     "name": "dismayed",
     "trans": [
-      "adj. 沮丧的; 失望的",
-      "例句: I was dismayed to discover that he'd lied."
+      "adj. 沮丧的; 失望的\nI was dismayed to discover that he'd lied."
     ]
   },
   {
     "name": "appalled",
     "trans": [
-      "adj. 惊骇的; 惊愕的; 震惊的; 反感的",
-      "例句: I am absolutely appalled by/at the state of our cities."
+      "adj. 惊骇的; 惊愕的; 震惊的; 反感的\nI am absolutely appalled by/at the state of our cities."
     ]
   },
   {
     "name": "astonished",
     "trans": [
-      "adj. 惊讶的; 吃惊的",
-      "例句: They looked astonished when I announced I was pregnant."
+      "adj. 惊讶的; 吃惊的\nThey looked astonished when I announced I was pregnant."
     ]
   },
   {
     "name": "devastated",
     "trans": [
-      "adj. 毁灭性的; 毁坏的; 被彻底摧毁的",
-      "例句: Thousands of people have left their devastated villages and fled to the mountains."
+      "adj. 毁灭性的; 毁坏的; 被彻底摧毁的\nThousands of people have left their devastated villages and fled to the mountains."
     ]
   },
   {
     "name": "erected",
     "trans": [
-      "v. 直立; 建立; 树立; 使竖立",
-      "例句: The statue was erected in 1892."
+      "v. 直立; 建立; 树立; 使竖立\nThe statue was erected in 1892."
     ]
   },
   {
     "name": "prismatic",
     "trans": [
-      "adj. 玻璃的; 棱镜的",
-      "例句: The mineral often occurs as long, white prismatic crystals.."
+      "adj. 玻璃的; 棱镜的\nThe mineral often occurs as long; white prismatic crystals. ."
     ]
   },
   {
     "name": "irritated",
     "trans": [
-      "adj. 恼怒的; 愤怒的",
-      "例句: I began to get increasingly irritated at her questions.."
+      "adj. 恼怒的; 愤怒的\nI began to get increasingly irritated at her questions. ."
     ]
   },
   {
     "name": "gloomily",
     "trans": [
-      "adv. 阴沉地; 沮丧地; 悲观地",
-      "例句: Kelly shook her head gloomily."
-    ]
-  },
-  {
-    "name": "stern letter",
-    "trans": [
-      "严厉的信"
-    ]
-  },
-  {
-    "name": "wreak havoc",
-    "trans": [
-      "造成严重破坏",
-      "例句: The storm wreaked havoc on the city."
-    ]
-  },
-  {
-    "name": "real estate",
-    "trans": [
-      "房地产"
-    ]
-  },
-  {
-    "name": "comply with",
-    "trans": [
-      "遵守",
-      "例句: The student complied with the teacher's request."
+      "adv. 阴沉地; 沮丧地; 悲观地\nKelly shook her head gloomily."
     ]
   },
   {
@@ -2020,40 +1964,31 @@
   {
     "name": "flawlessly",
     "trans": [
-      "adv. 完美地；无暇地"
+      "adv. 完美地; 无暇地"
     ]
   },
   {
     "name": "unproductive",
     "trans": [
-      "adj. 无生产力的; 无成效的",
-      "例句: The student was unproductive in his studies."
-    ]
-  },
-  {
-    "name": "shore sth up",
-    "trans": [
-      "支持; 支撑; 加固. 改善; 提高\n例句: Boundary walls have had to be shored up."
+      "adj. 无生产力的; 无成效的\nThe student was unproductive in his studies."
     ]
   },
   {
     "name": "groggy",
     "trans": [
-      "adj. 虚弱的; 虚脱的; 晕眩的\n例句: I felt a little bit groggy for a couple of days after the operation."
+      "adj. 虚弱的; 虚脱的; 晕眩的\nI felt a little bit groggy for a couple of days after the operation."
     ]
   },
   {
     "name": "fortified",
     "trans": [
-      "adj. 加强的; 加固的",
-      "例句: He fortified himself with a drink and a sandwich before driving on."
+      "adj. 加强的; 加固的\nHe fortified himself with a drink and a sandwich before driving on."
     ]
   },
   {
     "name": "fortification",
     "trans": [
-      "n. 堡垒; 防御工事; 防御物; 强化",
-      "例句: The fortification was built to protect the city."
+      "n. 堡垒; 防御工事; 防御物; 强化\nThe fortification was built to protect the city."
     ]
   }
 ]
