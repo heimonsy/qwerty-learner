@@ -437,6 +437,17 @@ const internationalExam: DictionaryResource[] = [
     languageCategory: 'en',
   },
   {
+    id: 'PANTHEON-S2',
+    name: 'PANTHEON-S2',
+    description: '个人词典',
+    category: '国际考试',
+    tags: ['CELPIP'],
+    url: '/dicts/pantheons2.json',
+    length: 133,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
     id: 'gmat',
     name: 'GMAT',
     description: 'GMAT 词库',
